@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ravis2114&show_icons=true&hide_border=true)
-[![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=ravis2114)](https://github.com/ravis2114/github-readme-stats)
-
