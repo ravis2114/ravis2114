@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ### social profiles 🌍 
 ----
-[<img align="left" alt="Ravi | Twitter" width="22px" style="color: #fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Ravi | Twitter" width="22px" style="color: white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [twitter]: https://twitter.com/r4_io_
