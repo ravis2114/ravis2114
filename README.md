@@ -17,8 +17,3 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ravis2114&show_icons=true&hide_border=true)
 
-### social profiles 🌍 
-----
-[<img align="left" alt="Ravi | Twitter" width="22px" style="color: white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[twitter]: https://twitter.com/r4_io_
